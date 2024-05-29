@@ -1,3 +1,3 @@
 <?php
-echo "Ohaiyo";
+echo "Ohkhaingmop;
 ?>
